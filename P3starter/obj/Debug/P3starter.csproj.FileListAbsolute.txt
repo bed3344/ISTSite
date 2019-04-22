@@ -1,0 +1,73 @@
+p:\P3starter\P3starter\bin\Debug\P3starter.exe.config
+p:\P3starter\P3starter\bin\Debug\P3starter.exe
+p:\P3starter\P3starter\bin\Debug\P3starter.pdb
+p:\P3starter\P3starter\obj\Debug\P3starter.csprojAssemblyReference.cache
+p:\P3starter\P3starter\obj\Debug\P3starter.Form1.resources
+p:\P3starter\P3starter\obj\Debug\P3starter.Properties.Resources.resources
+p:\P3starter\P3starter\obj\Debug\P3starter.csproj.GenerateResource.cache
+p:\P3starter\P3starter\obj\Debug\P3starter.csproj.CoreCompileInputs.cache
+p:\P3starter\P3starter\obj\Debug\P3starter.exe
+p:\P3starter\P3starter\obj\Debug\P3starter.pdb
+p:\P3starter\P3starter\bin\Debug\Newtonsoft.Json.dll
+p:\P3starter\P3starter\bin\Debug\Newtonsoft.Json.xml
+p:\P3starter\P3starter\obj\Debug\P3starter.csproj.CopyComplete
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\bin\Debug\P3starter.exe.config
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\bin\Debug\P3starter.exe
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\bin\Debug\P3starter.pdb
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\obj\Debug\P3starter.csprojAssemblyReference.cache
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\obj\Debug\P3starter.Form1.resources
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\obj\Debug\P3starter.Properties.Resources.resources
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\obj\Debug\P3starter.csproj.GenerateResource.cache
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\obj\Debug\P3starter.csproj.CoreCompileInputs.cache
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\obj\Debug\P3starter.csproj.CopyComplete
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\obj\Debug\P3starter.exe
+C:\Users\student\Downloads\P3starterPartial Week 10\P3starter\P3starter\obj\Debug\P3starter.pdb
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\bin\Debug\P3starter.exe.config
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\bin\Debug\P3starter.exe
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\bin\Debug\P3starter.pdb
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\bin\Debug\Newtonsoft.Json.dll
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\bin\Debug\Newtonsoft.Json.xml
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\obj\Debug\P3starter.csprojAssemblyReference.cache
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\obj\Debug\P3starter.Form1.resources
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\obj\Debug\P3starter.Properties.Resources.resources
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\obj\Debug\P3starter.csproj.GenerateResource.cache
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\obj\Debug\P3starter.csproj.CoreCompileInputs.cache
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\obj\Debug\P3starter.csproj.CopyComplete
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\obj\Debug\P3starter.exe
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\obj\Debug\P3starter.pdb
+D:\Client Programming\Project 3 Demos\P3starter\P3starter\bin\Debug\Newtonsoft.Json.pdb
+F:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\P3starter.exe.config
+F:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\P3starter.exe
+F:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\P3starter.pdb
+F:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\Newtonsoft.Json.dll
+F:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\Newtonsoft.Json.pdb
+F:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\Newtonsoft.Json.xml
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.csprojAssemblyReference.cache
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.Form1.resources
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.Properties.Resources.resources
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.csproj.GenerateResource.cache
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.csproj.CoreCompileInputs.cache
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.csproj.CopyComplete
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.exe
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.pdb
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.MinorDialog.resources
+D:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\P3starter.exe.config
+D:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\P3starter.exe
+D:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\P3starter.pdb
+D:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\Newtonsoft.Json.dll
+D:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\Newtonsoft.Json.pdb
+D:\Client Programming\Project 3\P3starter\P3starter\bin\Debug\Newtonsoft.Json.xml
+D:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.csprojAssemblyReference.cache
+D:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.Form1.resources
+D:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.MinorDialog.resources
+D:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.Properties.Resources.resources
+D:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.csproj.GenerateResource.cache
+D:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.csproj.CoreCompileInputs.cache
+D:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.csproj.CopyComplete
+D:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.exe
+D:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.pdb
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.ResourceDialog.resources
+D:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.ResourceDialog.resources
+F:\Client Programming\Project 3\P3starter\P3starter\obj\Debug\P3starter.ResFormDialog.resources
